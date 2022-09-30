@@ -1,7 +1,8 @@
 # Sentence Demo
 
 ### Prerequisites
-node `v17.6.0`<br />
+node `v14.20.1`<br />
+yarn `1.22.15`<br />
 ruby `3.0.3p157`
 
 ### Installation
