@@ -1,7 +1,7 @@
 # Sentence Demo
 
 ### Prerequisites
-node `v14.20.1`<br />
+node `14.20.1`<br />
 yarn `1.22.15`<br />
 ruby `3.0.3p157`
 
