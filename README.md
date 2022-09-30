@@ -16,5 +16,5 @@ bundle rails db:create db:migrate db:seed
 
 ### Start Application
 ```sh
-  foreman start -f Procfile.dev -p 3000
+foreman start -f Procfile.dev -p 3000
 ```
