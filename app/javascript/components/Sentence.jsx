@@ -8,7 +8,6 @@ const Sentence = () => {
 
   const navigate = useNavigate();
   const { id } = useParams();
-  console.log(id);
 
   useEffect(() => {
     fetch(`/api/sentences/${id}`)
@@ -31,7 +30,6 @@ const Sentence = () => {
   };
   const handleCancel = () => navigate('/sentences');
 
-  console.log(sentence)
   if (!sentence) return null;
   return (
     <div>
